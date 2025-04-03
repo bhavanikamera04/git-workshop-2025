@@ -2,7 +2,7 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: bhavani
+  <li> Name:K.Bhavani
   <li> Roll Number: 160124771077
   <li> Branch: AI&DS-2
 </ul>
